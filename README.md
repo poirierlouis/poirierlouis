@@ -1,5 +1,10 @@
-## Hi there 👋
+## Bien le bonjour 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poirierlouis&show_icons=true&theme=dark#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poirierlouis&show_icons=true&theme=default#gh-light-mode-only)
+
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poirierlouis&layout=compact&theme=dark#gh-dark-mode-only)
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poirierlouis&layout=compact&theme=default#gh-light-mode-only)
 <!--
 **poirierlouis/poirierlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
