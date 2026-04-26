@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Louis Poirier's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 102, Total Commits  (last year) : 301, Total PRs: 159, Total Issues: 113, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 103, Total Commits  (last year) : 301, Total PRs: 159, Total Issues: 113, Contributed to (last year): 27</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 65.90695692738937;
+        stroke-dashoffset: 65.72736988588814;
       }
     }
   
@@ -158,7 +158,7 @@
         x="199.01"
         y="12.5"
         data-testid="stars"
-      >102</text>
+      >103</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="contribs"
-      >28</text>
+      >27</text>
     </g>
   </g>
     </svg>
